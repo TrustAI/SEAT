@@ -1,0 +1,9 @@
+# Results folder
+*Results/
+
+# .pyc files
+*.pyc
+*.zip
+
+*.log
+test.sh
