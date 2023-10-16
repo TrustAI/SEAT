@@ -27,7 +27,7 @@ Before the experiment, please update the path to the processed dataset in `setti
 - The commands for performing adversarial training from scratch are given in `adv_train.sh`.
 
 ## Acknowledgement
-The implementation of this work is mostly based on the previous work, "Towards Robust General Medical Image Segmentation", published by Daza et al. in MICCAI 2023. [[Paper]](https://arxiv.org/abs/2107.04263) [[GitHub]](https://github.com/BCV-Uniandes/ROG#dataset-preparation)
+The implementation of this work is mostly based on the previous work, "Towards Robust General Medical Image Segmentation", published by Daza et al. in MICCAI 2021. [[Paper]](https://arxiv.org/abs/2107.04263) [[GitHub]](https://github.com/BCV-Uniandes/ROG#dataset-preparation)
 
 
 ## Citation
